@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Efe and I'm a Computer Science major from Gazi University</h2>
+<h2 align="left">Hi! My name is Efe and I'm a Computer Science major from Gazi University.</h2>
 
 ###
 
